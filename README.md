@@ -35,11 +35,6 @@ Your portfolio needs to have these pages:
 
 * Do you have `react-router-dom` npm installed for this project?
 
-* Here is how to render a component with `props` inside of a `<Route>` element:
-
-```js
-<Route path="/blog" render={ () => <Blog posts={this.props.posts} /> }/>
-```
 
 ## Bonuses
 
